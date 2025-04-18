@@ -1,10 +1,10 @@
 Challenge 1: Job Application Tracker (MERN Stack)
 
 A simple web application where users can:
-View a list of companies.
-Mark companies as Target or Not Target.
-Status is saved per user and updates in real time.
-Users can register, log in, and their choices are saved in a MongoDB database.
+1. View a list of companies.
+2. Mark companies as Target or Not Target.
+3. Status is saved per user and updates in real time.
+4. Users can register, log in, and their choices are saved in a MongoDB database.
 
 💡 Features:
 JWT Authentication with secure httpOnly cookies.
